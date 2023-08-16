@@ -4,6 +4,9 @@ class Tokenize:
   def __init__(self):
     pass
 
-  def __call__(self):
+  def encode(self):
+    pass
+
+  def decode(self):
     pass
 
